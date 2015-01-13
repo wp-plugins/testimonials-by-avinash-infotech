@@ -48,9 +48,22 @@ Installing "Testimonials by Avinash Infotech" can be done either by searching fo
 
 == Frequently Asked Questions ==
 
-= The plugin looks unstyled when I activate it. Why is this? =
+= Will testimonials plugin work with my theme? =
+
+As it is very flixible - it works with the majority of premium and free themes, without requiring any coding.
+
+= Is the plugin looks unstyled when I activate it? =
 
 "Testimonials by Avinash Infotech" is a lean plugin that aims to keep it's purpose as clean and clear as possible. Thus, we don't load any preset CSS styling, to allow full control over the styling within your theme or child theme.
+
+
+= Are the sliders mobile friendly? =
+
+Yes, since we use Javascript rather than flash, BxUltimate Slider is compatible with Android, iOS, and Blackberry.
+
+= Do you have documentation? =
+
+Yes. See <a href="http://www.avinashinfotech.com/blog/testimonials/" target="_blank">Testimonials Plugin Documentation</a>.
 
 
 == Screenshots ==
