@@ -22,17 +22,17 @@ Looking for a helping hand? [View plugin documentation](http://www.avinashinfote
 
 To display your testimonials via a theme or a custom plugin, please use the following code:
 
-'<?php do_shortcode( 'testimonials' ); ?>'
+do_shortcode( 'testimonials' )
 
 ==Usage Examples==
 
 Using the arguments in the 2 possible methods:
 
-1. do_shortcode() call:
+do_shortcode() call:
 
-<?php do_shortcode( 'testimonials' ); ?>
+do_shortcode( 'testimonials' )
 
-2. [testimonials] shortcode:
+[testimonials] shortcode:
 
 '[testimonials]'
 
