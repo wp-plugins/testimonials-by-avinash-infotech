@@ -59,7 +59,7 @@ As it is very flixible - it works with the majority of premium and free themes, 
 
 = Are the sliders mobile friendly? =
 
-Yes, since we use Javascript rather than flash, BxUltimate Slider is compatible with Android, iOS, and Blackberry.
+Yes, since we use Javascript rather than flash, Testimonials plugin is compatible with Android, iOS, and Blackberry.
 
 = Do you have documentation? =
 
