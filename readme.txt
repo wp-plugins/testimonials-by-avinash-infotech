@@ -15,7 +15,7 @@ Show off what your customers are saying about your business and how great they s
 
 "Testimonials by Avinash Infotech" is a clean and easy-to-use testimonials management system for WordPress. Load in what your customers are saying about your business, and display the testimonials via a shortcode or widget.
 
-Looking for a helping hand? [View plugin documentation](http://www.avinashinfotech.com/blog/testimonials/).
+Looking for a helping hand? [View plugin documentation](http://www.avinashinfotech.com/wordpress-plugins/testimonials/).
 
 
 == Usage ==
@@ -63,7 +63,7 @@ Yes, since we use Javascript rather than flash, Testimonials plugin is compatibl
 
 = Do you have documentation? =
 
-Yes. See <a href="http://www.avinashinfotech.com/blog/testimonials/" target="_blank">Testimonials Plugin Documentation</a>.
+Yes. See <a http://www.avinashinfotech.com/wordpress-plugins/testimonials/" target="_blank">Testimonials Plugin Documentation</a>.
 
 
 == Screenshots ==
