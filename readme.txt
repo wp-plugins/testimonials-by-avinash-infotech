@@ -44,7 +44,7 @@ Installing "Testimonials by Avinash Infotech" can be done either by searching fo
 1. Download the plugin via WordPress.org.
 2. Upload the ZIP file through the "Plugins > Add New > Upload" screen in your WordPress dashboard.
 3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Place '<?php do_shortcode( 'testimonials' ); ?>' in your templates, or use the provided widget or shortcode.
+4. Place do_shortcode( 'testimonials' ) within PHP Start & End in your templates, or use the provided widget or shortcode.
 
 == Frequently Asked Questions ==
 
