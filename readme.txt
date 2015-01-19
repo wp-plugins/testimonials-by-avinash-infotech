@@ -1,7 +1,7 @@
 === Testimonials by Avinash Infotech ===
-Contributors: Sarmistha Chatterjee
+Contributors: subratapobi, Sarmistha Chatterjee
 Donate link: http://www.avinashinfotech.com/
-Tags: testimonials, widget, shortcode, feedback, customers
+Tags: testimonials, widget, shortcode, feedback, customers, subrata pobi, subratapobi
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.0
